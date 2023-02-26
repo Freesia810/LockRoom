@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <!-- shape with circle-top corner -->
+        <shape
+            android:shape="rectangle"
+            >
+            <!-- the shape background color -->
+            <solid android:color="#F9F9F9"/>
+            <corners android:topLeftRadius="100dp" android:topRightRadius="100dp"
+                android:bottomLeftRadius="100dp" android:bottomRightRadius="100dp"/>
+            <stroke  android:width="1dp" android:color="#F0F0F0"/>
+        </shape>
+    </item>
+</layer-list>

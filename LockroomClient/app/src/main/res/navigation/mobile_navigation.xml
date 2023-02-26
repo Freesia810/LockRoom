@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/privateroomFragment">
+
+    <fragment
+        android:id="@+id/privateroomFragment"
+        android:name="com.freesia.lockroom.ui.privateroomFragment"
+        android:label="Private Room"
+        tools:layout="@layout/fragment_privateroom" />
+    <fragment
+        android:id="@+id/mydiaryFragment"
+        android:name="com.freesia.lockroom.ui.mydiaryFragment"
+        android:label="My Diary"
+        tools:layout="@layout/fragment_mydiary" />
+</navigation>

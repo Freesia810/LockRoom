@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lockroom</string>
+    <string name="is_safe">请进行安全验证</string>
+    <string name="apply">确认</string>
+    <string name="cancel">取消</string>
+    <string name="safe_set_pw">安全验证 - 设置密码</string>
+    <string name="tip_set_pw">请进行密码设置</string>
+    <string name="pw_fail">设置密码失败</string>
+    <string name="pw_succeed">设置密码成功</string>
+    <string name="check_input">请检查输入</string>
+    <string name="tip_input_pw">请输入密码</string>
+    <string name="tip_error_pw">密码错误</string>
+    <string name="safe_veri">安全验证</string>
+    <string name="tip_network">请检查网络连接</string>
+    <string name="title_share">共享信息设置</string>
+    <string name="text_loc">地点：%1$s</string>
+    <string name="loc_error">不能正确定位</string>
+    <string name="title">标题…</string>
+    <string name="loc_default">您在哪里....</string>
+    <string name="msg_rm_box">是否移除刚才的输入框？</string>
+    <string name="tip_input">请输入…</string>
+    <string name="msg_save">是否保存</string>
+    <string name="title_rename">重命名</string>
+    <string name="msg_same_name">已存在相同命名，是否继续？</string>
+    <string name="title_override">文件覆盖</string>
+    <string name="msg_share_failed">共享失败</string>
+    <string name="msg_share_ok">Share ID 已复制到剪切板</string>
+    <string name="action_settings">设置</string>
+    <string name="tip_c_pw">确认密码</string>
+    <string name="share_times">共享次数</string>
+    <string name="permanent_save">是否永久保存</string>
+    <string name="open">打开</string>
+    <string name="moveout">移出</string>
+    <string name="delete">删除</string>
+    <string name="rename">重命名</string>
+    <string name="share">分享</string>
+    <string name="private_room">隐私空间</string>
+    <string name="my_diary">我的日记</string>
+    <string name="about">关于</string>
+</resources>

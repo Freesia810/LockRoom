@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Lockroom</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="is_safe">Please perform security verification</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="safe_set_pw">Security Verification - Set Password</string>
+    <string name="tip_set_pw">Please set the password</string>
+    <string name="pw_fail">Failed to set password</string>
+    <string name="pw_succeed">Password set successfully</string>
+    <string name="check_input">Please check the input</string>
+    <string name="tip_input_pw">Please input a password</string>
+    <string name="tip_error_pw">Password error</string>
+    <string name="safe_veri">Security Verification</string>
+    <string name="tip_network">Please check the connection network</string>
+    <string name="title_share">Shared information settings</string>
+    <string name="text_loc">Location: %1$s</string>
+    <string name="loc_error">Failed to locate</string>
+    <string name="title">Title…</string>
+    <string name="loc_default">Where are you…</string>
+    <string name="tip_input">Please input anything…</string>
+    <string name="msg_rm_box">Do you want to remove the input box just now?</string>
+    <string name="msg_save">Save or not</string>
+    <string name="title_rename">Rename</string>
+    <string name="msg_same_name">The same name already exists, do you want to continue?</string>
+    <string name="title_override">Overwrite File</string>
+    <string name="msg_share_failed">Failed to share</string>
+    <string name="msg_share_ok">Share ID copied to clipboard</string>
+    <string name="tip_c_pw">Confirm Password</string>
+    <string name="share_times">Sharing times</string>
+    <string name="permanent_save">Permanently saved or not</string>
+    <string name="open">Open</string>
+    <string name="moveout">Move out</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="private_room">Private Room</string>
+    <string name="my_diary">My Diary</string>
+    <string name="about">About</string>
+</resources>
